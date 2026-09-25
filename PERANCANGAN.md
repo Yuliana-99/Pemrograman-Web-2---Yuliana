@@ -327,7 +327,8 @@ Sistem dapat memberikan indikator ketika jumlah pengeluaran mendekati atau meleb
 
 **Link publik project Figma:**
 
-> [Masukkan link publik Figma di sini]
+> https://ai.studio/apps/70088879-2c7a-4a83-a0c4-264ae0b424ca
+> https://stitch.withgoogle.com/preview/15351802218556633542?node-id=ff93844e32614121a17fc7a740325bba
 
 Contoh:
 
