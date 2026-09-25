@@ -342,25 +342,25 @@ Pengaturan akses Figma disarankan menggunakan **Anyone with the link can view** 
 
 ## Dashboard
 
-> **[Tempel screenshot hasil rancangan Dashboard di sini]**
+> <img width="407" height="526" alt="Screenshot 2026-09-25 235839" src="https://github.com/user-attachments/assets/9a4a4335-94db-479a-8f91-608a99d95ed4" />
+
 
 ## Transaksi
 
-> **[Tempel screenshot hasil rancangan halaman Transaksi di sini]**
+> <img width="405" height="523" alt="Screenshot 2026-09-25 235914" src="https://github.com/user-attachments/assets/206cefd5-9783-48fe-8718-1796ff448aad" />
+
 
 ## Riwayat Transaksi
 
-> **[Tempel screenshot hasil rancangan Riwayat Transaksi di sini]**
+> <img width="399" height="533" alt="Screenshot 2026-09-25 235946" src="https://github.com/user-attachments/assets/5c7db97d-5644-42ba-acab-0b195d78a441" />
+
 
 ## Laporan Keuangan
 
-> **[Tempel screenshot hasil rancangan Laporan Keuangan di sini]**
+> <img width="418" height="540" alt="Screenshot 2026-09-26 000011" src="https://github.com/user-attachments/assets/30a03f88-452d-4afc-bc4d-d9613c65e788" />
 
-## Anggaran
 
-> **[Tempel screenshot hasil rancangan Anggaran di sini]**
 
----
 
 # 13. Kesimpulan Perancangan
 
