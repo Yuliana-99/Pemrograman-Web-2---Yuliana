@@ -401,7 +401,7 @@ Data di atas hanya digunakan sebagai contoh/mock data untuk kebutuhan rancangan 
 ### Stitch
 
 **Link Project Stitch:**  
-`[MASUKKAN LINK STITCH DI SINI]`
+https://stitch.withgoogle.com/projects/18332255557983541934
 
 ### Figma
 
