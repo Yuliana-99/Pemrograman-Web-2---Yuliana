@@ -406,7 +406,7 @@ https://stitch.withgoogle.com/projects/18332255557983541934
 ### Figma
 
 **Link Project Figma:**  
-`[MASUKKAN LINK FIGMA DI SINI]`
+https://www.figma.com/design/P0cctNHuvSmkghhFAd4ope/Untitled?node-id=0-1&p=f&t=XcwI4ZpYOPSCDC96-0
 
 > Pastikan link yang digunakan dapat diakses secara publik oleh dosen/validator.
 
