@@ -408,7 +408,6 @@ https://stitch.withgoogle.com/projects/18332255557983541934
 **Link Project Figma:**  
 https://www.figma.com/design/P0cctNHuvSmkghhFAd4ope/Untitled?node-id=0-1&p=f&t=XcwI4ZpYOPSCDC96-0
 
-> Pastikan link yang digunakan dapat diakses secara publik oleh dosen/validator.
 
 ## 14. Dokumentasi Rancangan
 
