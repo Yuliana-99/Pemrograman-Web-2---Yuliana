@@ -1,4 +1,3 @@
-# PERANCANGAN.md
 # Aplikasi Manajemen Keuangan (Finance Tracking)
 
 ## 1. Informasi Proyek
