@@ -406,7 +406,7 @@ https://stitch.withgoogle.com/projects/18332255557983541934
 ### Figma
 
 **Link Project Figma:**  
-https://www.figma.com/design/P0cctNHuvSmkghhFAd4ope/Untitled?node-id=0-1&p=f&t=XcwI4ZpYOPSCDC96-0
+https://www.figma.com/design/IXFCfiaaQV19Y8lzuwB9pA/FINANCE-TRACKING?node-id=0-1&p=f&t=oDHqZaya0dQof3aZ-0
 
 
 ## 14. Dokumentasi Rancangan
